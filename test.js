@@ -1,4 +1,4 @@
-jQuery.ui.require(
+jQuery.sap.ui.require(
 	[
 		"glb/farms/web/devopsfarmslov/util/Formatter",
 		"sap/ui/model/resource/ResourceModel",
